@@ -6,6 +6,8 @@
 Railway Friendly Food (RFF) is a front-end web application that allows railway passengers to order fresh meals during their train journey.
 
 The platform enables users to:
+
+
    1.Log in or create an account
    2.Enter train and journey details
    3.Pre-order food before reaching a station
