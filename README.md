@@ -9,6 +9,8 @@ The platform enables users to:
 
 
    1.Log in or create an account
+
+
    2.Enter train and journey details
    3.Pre-order food before reaching a station
    4.Order food during the journey
