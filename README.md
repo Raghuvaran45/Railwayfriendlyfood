@@ -11,8 +11,11 @@ The platform enables users to:
    1.Log in or create an account
 
    2.Enter train and journey details
+
    3.Pre-order food before reaching a station
+
    4.Order food during the journey
+
    5.Subscribe to premium plans for discounts and priority delivery
 
 This project is built using HTML, CSS, and JavaScript without backend integration (currently frontend-based with mock data).
@@ -24,12 +27,14 @@ Train passengers often struggle to find hygienic and timely food during long jou
 🔥 Key Features
 
 🔐 Authentication System
+
    Login and Signup interface
    Form validation
    Mock authentication system
    Dynamic user profile display
 
 🚆 Pre-Order Module
+
     Select train name & number
     Choose boarding and destination stations
     Enter journey date, time, and seat details
@@ -38,6 +43,7 @@ Train passengers often struggle to find hygienic and timely food during long jou
     Checkout functionality
 
 🍽 Order Now Module
+
    Enter current station details
    View available restaurants
    Browse restaurant menu
@@ -45,23 +51,27 @@ Train passengers often struggle to find hygienic and timely food during long jou
    Dynamic total calculation
 
 👑 Premium Subscription
+
     Monthly, Quarterly, and Annual plans
    10% discount on food items
    Premium restaurant access
    Discount calculation in cart
 
 🛒 Cart Management
+
    Add/remove items
    Increase/decrease quantity
    Real-time total price update
   Session storage for checkout
 
 🛠️ Technologies Used
+
     HTML5 – Structure and layout
     CSS3 – Styling, Flexbox, Grid, responsive design
     JavaScript (Vanilla JS) – DOM manipulation, dynamic content loading, cart logic
     
 📊 Functional Highlights
+
    Dynamic station dropdown based on selected train
    Food filtering (Veg / Non-Veg / Breakfast / Lunch / Dinner / Snacks)
    Separate carts for:
@@ -72,6 +82,7 @@ Train passengers often struggle to find hygienic and timely food during long jou
   Smooth scrolling to sections
 
 💡 Learning Outcomes
+
       Through this project:
       1.Implemented full frontend workflow
       2.Practiced DOM manipulation
@@ -81,6 +92,7 @@ Train passengers often struggle to find hygienic and timely food during long jou
       6.Implemented session storage
 
 📌 Conclusion
+
 Railway Friendly Food is a complete front-end prototype of a railway food delivery platform. It demonstrates strong fundamentals in UI design, JavaScript logic implementation, and user interaction handling, making it suitable for portfolio presentation and academic submission.
 
 
